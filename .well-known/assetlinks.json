@@ -2,7 +2,8 @@
   "relation": ["delegate_permission/common.handle_all_urls"],
   "target": {
     "namespace": "android_app",
-    "package_name": "uk.co.jakelee.apodwallpaper",
-    "sha256_cert_fingerprints": ["7B:E3:6A:AF:1C:55:D7:52:D0:A0:65:20:51:8F:D6:D9:EC:1C:EA:85:34:AE:EA:71:3D:04:59:31:3E:17:7F:29"]
+    "package_name": "com.nahtuh.ubser.legacyapp",
+    "sha256_cert_fingerprints":
+    ["BC:54:FF:0B:86:78:7B:67:0F:D0:91:43:30:FF:81:B6:E4:FB:D6:03:7E:26:E8:D6:50:82:9E:FB:A8:28:77:13"]
   }
 }]
